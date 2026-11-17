@@ -1,0 +1,5 @@
+/build/
+
+# Local verification files; excluded from the initial publication.
+/regression.cpp
+/verify.py
